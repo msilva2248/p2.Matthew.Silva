@@ -8,9 +8,12 @@
 
 [Demo](https://media.giphy.com/media/NXVF5ZL5lLwcvSuFdI/giphy.gif)
 
+[Gif Demo]()
+
 ### Getting C:
 Provide the Sketch
 ![Image](p2.Matthew.Silva.png)
+![Image](p2.Matthew.Silva.mp4)
 
 General information:
     personalized calendar: triggers a pop up that displays calendar events to do
