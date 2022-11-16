@@ -10,7 +10,7 @@
 
 ### Getting C:
 Provide the Sketch
-![Image](p2.png)
+![Image](p2.Matthew.Silva.png)
 
 General information:
     personalized calendar: triggers a pop up that displays calendar events to do
