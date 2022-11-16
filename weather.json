@@ -1,0 +1,13 @@
+{
+"Today": {"Weather": "Sunny", "high": 90, "low": 45},
+"Tomorrow": {"Weather": "Cloudy", "high": 81, "low": 40},
+"7-Day Forecast": {"Today": {"Weather": "Sunny", "high": 86, "low": 41},
+"Thursday": {"Weather": "Partly Cloudy", "high": 83, "low": 44},
+"Friday": {"Weather": "Thunderstorms ", "high": 70, "low": 35},
+"Saturday": {"Weather": "Mostly Cloudy", "high": 74, "low": 39},
+"Sunday": {"Weather": "Sunny", "high": 88, "low": 51},
+"Monday": {"Weather": "Sunny", "high": 91, "low": 49},
+"Tuesday": {"Weather": "Light Rain", "high": 79, "low": 37},
+"Wednesday": {"Weather": "Cloudy", "high": 80, "low": 42}}
+
+}
