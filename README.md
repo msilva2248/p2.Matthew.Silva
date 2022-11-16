@@ -6,14 +6,13 @@
 
 [GitHub repository](https://github.com/msilva2248/p2.Matthew.Silva)
 
-[Demo](p2.Matthew.Silva.mp4)
+[Demo](https://youtu.be/r2d-ChMeYXw)
 
 [Gif Demo]()
 
 ### Getting C:
 Provide the Sketch
 ![Image](p2.Matthew.Silva.png)
-![Image](p2.Matthew.Silva.mp4)
 
 General information:
     personalized calendar: triggers a pop up that displays calendar events to do
