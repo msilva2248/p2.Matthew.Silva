@@ -6,7 +6,7 @@
 
 [GitHub repository](https://github.com/msilva2248/p2.Matthew.Silva)
 
-[Demo](https://media.giphy.com/media/NXVF5ZL5lLwcvSuFdI/giphy.gif)
+[Demo](p2.Matthew.Silva.mp4)
 
 [Gif Demo]()
 
