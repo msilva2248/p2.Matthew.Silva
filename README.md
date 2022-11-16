@@ -8,7 +8,7 @@
 
 [Demo](https://youtu.be/r2d-ChMeYXw)
 
-[Gif Demo]()
+[Gif Demo](https://media.giphy.com/media/9HoutICcJhMchqRhEJ/giphy.gif)
 
 ### Getting C:
 Provide the Sketch
